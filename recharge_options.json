@@ -32,12 +32,7 @@
     "price": 840
   },
   {
-    "diamonds":270,
-    "price":300
-  },
-  {
-    "diamonds":"Shortly",
-    "price":20000
-  },
+    "diamonds": "Level Up Pass",
+    "price": 175
+  }
 ]
-
