@@ -30,5 +30,10 @@
   {
     "diamonds": "Monthly",
     "price": 840
-  }
+  },
+  {
+    "diamonds":270,
+    "price":300,
+  },
 ]
+
