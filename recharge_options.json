@@ -1,19 +1,34 @@
 [
   {
     "diamonds": 115,
-    "price": 85
+    "price": 95
   },
   {
-    "diamonds": 2530,
-    "price": 1680
+    "diamonds": 240,
+    "price": 190
   },
   {
-    "diamonds": 3000,
-    "price": 2500
+    "diamonds": 355,
+    "price": 285
   },
   {
-    "diamonds":200,
-    "price":230
+    "diamonds": 480,
+    "price": 380
   },
+  {
+    "diamonds": 610,
+    "price": 475
+  },
+  {
+    "diamonds": 725,
+    "price": 570
+  },
+  {
+    "diamonds": "Weekly",
+    "price": 180
+  },
+  {
+    "diamonds": "Monthly",
+    "price": 840
+  }
 ]
-
